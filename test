@@ -1,1 +1,11 @@
+#include <iostream>
+#include <string>
 
+
+int main()
+{
+
+  std::string string = "hallo";
+  std::cout << string;
+  
+}

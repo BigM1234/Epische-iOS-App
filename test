@@ -5,8 +5,12 @@
 int main()
 {
 
-  std::string string = "hallo";
+  std::string string = "Was geht ab?";
   std::cout << string << endl ;
+  
+  
+  std::cin >> string;
+  std::cout << string << std::endl << "Das geht ab!" << std::endl;
   
 }
 

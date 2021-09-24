@@ -6,7 +6,7 @@ int main()
 {
 
   std::string string = "hallo";
-  std::cout << string;
+  std::cout << string << endl ;
   
 }
 

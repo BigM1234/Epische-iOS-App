@@ -9,3 +9,5 @@ int main()
   std::cout << string;
   
 }
+
+// Ich hab hier mal was verändert.
